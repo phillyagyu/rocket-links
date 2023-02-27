@@ -13,7 +13,7 @@ A project developed with RocketSeat during Maratona Explorer 2.0. A site to aces
 
 <p align="center">
   <a href="https://phillyagyu.github.io/rocket-links/">
-    <img src=".github/preview.png" width="100%">
+    <img src=".github/preview.png">
   </a>
 </p>
 
